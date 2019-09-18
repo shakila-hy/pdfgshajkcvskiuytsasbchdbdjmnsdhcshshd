@@ -9,5 +9,4 @@ $(document).ready(function () {
         $(".custom-height").css("height", height);
     });
 
-
 });
